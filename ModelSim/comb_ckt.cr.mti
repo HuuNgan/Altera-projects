@@ -1,0 +1,24 @@
+{D:/HuuNgan Data/Altera/Altera-projects/ModelSim/comb_ckt.vhd} {1 {vcom -work work -2002 -explicit {D:/HuuNgan Data/Altera/Altera-projects/ModelSim/comb_ckt.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture behv of or_gate
+-- Compiling entity and_gate
+-- Compiling architecture behv of and_gate
+-- Compiling entity comb_ckt
+-- Compiling architecture struct of comb_ckt
+
+} {} {}} {D:/HuuNgan Data/Altera/Altera-projects/ModelSim/tb_ckt.vhd} {1 {vcom -work work -2002 -explicit {D:/HuuNgan Data/Altera/Altera-projects/ModelSim/tb_ckt.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity ckt_tb
+-- Compiling architecture tb of ckt_tb
+-- Compiling configuration cfg_tb
+-- Loading entity ckt_tb
+-- Loading architecture tb of ckt_tb
+-- Loading entity comb_ckt
+
+} {} {}}
