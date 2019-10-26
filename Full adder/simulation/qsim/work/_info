@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Tai lieu dien tu\Projects\Altera-projects\Full adder\simulation\qsim
+vfull_adder
+Z1 ILBgOZPa[HQ?8a4_z5=7TJ1
+Z2 V=ZN8PXgadXoBB;N^6BIXN2
+Z3 dD:\Tai lieu dien tu\Projects\Altera-projects\Full adder\simulation\qsim
+Z4 w1572094448
+Z5 8full_adder.vo
+Z6 Ffull_adder.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|full_adder.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 8blakfX=Wa>6c:g0ik5ml3
+!s85 0
+Z11 !s108 1572094449.165000
+Z12 !s107 full_adder.vo|
+!s101 -O0
+vfull_adder_vlg_check_tst
+!i10b 1
+Z13 !s100 D6;V0_^hN^`9MBYaVTLg?1
+Z14 IYC7P4:HVmaJLCj7@BQnoG1
+Z15 Vif=<Z:>bBBBkIbFHadAYf2
+R3
+Z16 w1572094447
+Z17 8full_adder.vt
+Z18 Ffull_adder.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z19 !s108 1572094449.372000
+Z20 !s107 full_adder.vt|
+Z21 !s90 -work|work|full_adder.vt|
+!s101 -O0
+R9
+vfull_adder_vlg_sample_tst
+!i10b 1
+Z22 !s100 iW<3i^nZD_^CUOace3gE`3
+Z23 III0gHA<ImZ_0L^2C9hVM10
+Z24 VL_I[fk?R=WhlZBg?_0;120
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vfull_adder_vlg_vec_tst
+!i10b 1
+Z25 !s100 g[=YE4kH?;HV@h`ezoe1O1
+Z26 IK4IdTbaG0XLB]ZX?5MgTM3
+Z27 VYcA9o=ef0RHic;;ZJODc61
+R3
+R16
+R17
+R18
+Z28 L0 183
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
