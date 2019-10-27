@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Tai lieu dien tu\Projects\Altera-projects\MUX_4_1\simulation\qsim
+vmux_4_1
+Z1 ILL]mHP=45M07JgSdk=[QC2
+Z2 VkWZ_6o?^2mJS8SbT:;>fC3
+Z3 dD:\Tai lieu dien tu\Projects\Altera-projects\MUX_4_1\simulation\qsim
+Z4 w1572196558
+Z5 8mux_4_1.vo
+Z6 Fmux_4_1.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 nR:AIieQkY3`m84K@z@Wg0
+!s85 0
+Z10 !s108 1572196559.224000
+Z11 !s107 mux_4_1.vo|
+Z12 !s90 -work|work|mux_4_1.vo|
+!s101 -O0
+vmux_4_1_vlg_check_tst
+!i10b 1
+!s100 ^fRZY?[j??NoX]nT<M>ZB0
+IfLRL1Tf;:<9<@oz]=m<`@3
+V?3UA:=]DTfGX;G6aX2ebV0
+R3
+Z13 w1572196557
+Z14 8mux_4_1.vt
+Z15 Fmux_4_1.vt
+L0 65
+R7
+r1
+!s85 0
+31
+Z16 !s108 1572196559.390000
+Z17 !s107 mux_4_1.vt|
+Z18 !s90 -work|work|mux_4_1.vt|
+!s101 -O0
+R8
+vmux_4_1_vlg_sample_tst
+!i10b 1
+!s100 dZMj_cZJP1RJHK4ZiIU630
+I[4>b?1<k3LY^?>liB=<eH2
+V32WG><XB<4XZ?EaCaIGJb1
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vmux_4_1_vlg_vec_tst
+!i10b 1
+!s100 McR_K:@LWklPZgiaFS6EX1
+I`9fb8=_EV@]1F`[ee<E1`0
+VneU3f:QnDF:H>WMzVK`873
+R3
+R13
+R14
+R15
+L0 160
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

@@ -18,7 +18,7 @@
 // the top level entity of the current Quartus project .The user can use this   
 // testbench to simulate his design using a third-party simulation tool .       
 // *****************************************************************************
-// Generated on "10/26/2019 19:54:07"
+// Generated on "10/27/2019 23:42:50"
                                                                         
 // Verilog Self-Checking Test Bench (with test vectors) for design :    full_adder
 // 
@@ -206,24 +206,32 @@ full_adder i1 (
 initial
 begin
 	a_in = 1'b0;
-	a_in = #9000000 1'b1;
-	a_in = #9000000 1'b0;
-	a_in = #8000000 1'b1;
-	a_in = #9000000 1'b0;
+	a_in = #2000000 1'b1;
+	a_in = #2000000 1'b0;
+	a_in = #2000000 1'b1;
+	a_in = #2000000 1'b0;
+	a_in = #2000000 1'b1;
+	a_in = #2000000 1'b0;
+	a_in = #2000000 1'b1;
+	a_in = #2000000 1'b0;
 end 
 
 // b_in
 initial
 begin
 	b_in = 1'b0;
-	b_in = #18000000 1'b1;
-	b_in = #17000000 1'b0;
+	b_in = #4000000 1'b1;
+	b_in = #4000000 1'b0;
+	b_in = #4000000 1'b1;
+	b_in = #4000000 1'b0;
 end 
 
 // c_in
 initial
 begin
 	c_in = 1'b0;
+	c_in = #8000000 1'b1;
+	c_in = #8000000 1'b0;
 end 
 
 full_adder_vlg_sample_tst tb_sample (

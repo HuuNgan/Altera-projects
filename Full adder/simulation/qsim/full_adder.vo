@@ -16,7 +16,7 @@
 // PROGRAM "Quartus II 64-Bit"
 // VERSION "Version 13.0.0 Build 156 04/24/2013 SJ Web Edition"
 
-// DATE "10/26/2019 19:54:08"
+// DATE "10/27/2019 23:42:51"
 
 // 
 // Device: Altera EP2C35F672C6 Package FBGA672
@@ -59,10 +59,6 @@ assign unknown = 1'bx;
 tri1 devclrn;
 tri1 devpor;
 tri1 devoe;
-// synopsys translate_off
-initial $sdf_annotate("full_adder_v.sdo");
-// synopsys translate_on
-
 wire \b_in~combout ;
 wire \a_in~combout ;
 wire \c_in~combout ;

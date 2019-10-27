@@ -23,13 +23,7 @@
 # Loading cycloneii_ver.cycloneii_lcell_comb
 # Loading work.full_adder_vlg_sample_tst
 # Loading work.full_adder_vlg_check_tst
-# SDF 10.1d Compiler 2012.11 Nov  2 2012
-# 
-# Loading instances from full_adder_v.sdo
 # Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
-# Loading timing data from full_adder_v.sdo
-# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
-#    Time: 0 ps  Iteration: 0  Instance: /full_adder_vlg_vec_tst File: full_adder.vt
 # Simulation passed !
 # ** Note: $finish    : full_adder.vt(179)
 #    Time: 100 us  Iteration: 0  Instance: /full_adder_vlg_vec_tst/tb_out
