@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, D:/Tai lieu dien tu/Projects/Altera-projects/MUX_4_1/mux_4_1.vhd
+source_file = 1, D:/Tai lieu dien tu/Projects/Altera-projects/MUX_4_1/db/mux_4_1.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = mux_4_1
+instance = comp, \sel[0]~I\, sel[0], mux_4_1, 1
+instance = comp, \D3~I\, D3, mux_4_1, 1
+instance = comp, \D1~I\, D1, mux_4_1, 1
+instance = comp, \D0~I\, D0, mux_4_1, 1
+instance = comp, \sel[1]~I\, sel[1], mux_4_1, 1
+instance = comp, \Mux0~0\, Mux0~0, mux_4_1, 1
+instance = comp, \D2~I\, D2, mux_4_1, 1
+instance = comp, \Mux0~1\, Mux0~1, mux_4_1, 1
+instance = comp, \Y~I\, Y, mux_4_1, 1

@@ -1,0 +1,15 @@
+library ieee;
+ use ieee.std_logic_1164.all;
+ use ieee.std_logic_unsigned.all;
+
+ entity test is
+ port (
+ SW: in std_logic_vector (1 downto 0) ;
+ LEDR : out std_logic_vector (1 downto 0)
+ );
+ end entity;
+
+ architecture behavior of test is
+ begin
+ LEDR (1 downto 0) <= SW (1 downto 0) ;
+ end architecture;
